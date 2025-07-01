@@ -38,7 +38,7 @@ const initMySQL = async () => {
   });
 };
 
-/* เราจะแก้ไข code ที่อยู่ตรงกลาง */
+
 
 app.get("/hello", (req, res) => {
   res.send("Hello World"); 
