@@ -13,7 +13,7 @@ npm install
 docker-compose -d --build
 ```
 
-#### 3 test register and login API 
+#### 3 test API 
 
 
 
